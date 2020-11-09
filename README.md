@@ -1,16 +1,34 @@
-# patancollege
+# PatanCollegeApplication
+> This application was my first mobile application made using flutter sdk and making this project was a great experince for me as it took me quite a long time and daily I added some features to make it interactive and attractive.
 
-A new Flutter project.
+# Snapshots Of Application
 
-## Getting Started
+<img scr="1.png"/>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img scr="2.png"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img scr="3.png"/>
+
+
+<img scr="4.png"/>
+
+# Techologies used
+
+* Flutter
+<img src="flutter.png"/>
+
+* Dart
+<img src="dart.png"/>
+
+* Firebase
+<img src="firebase.png"/>
+
+* Vscode
+<img src="vscode.png"/>
+
+
+
+
+
